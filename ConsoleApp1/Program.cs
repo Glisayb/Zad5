@@ -4,7 +4,7 @@ for (int i = 5; i < 10; i++)
 {
     Console.WriteLine(i*a);
 }
-Console.WriteLine("koniec prógramu");
+Console.WriteLine("konieccccc prógramu");
 
 static double Average(int[] nums)
 {
