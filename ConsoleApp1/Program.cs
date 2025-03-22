@@ -16,3 +16,8 @@ static double Average(int[] nums)
 
     return sum / nums.Length;
 }
+
+static double Max(int[] nums)
+{
+    return nums.Max();
+}
